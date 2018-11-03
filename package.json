@@ -1,19 +1,19 @@
 {
   "name": "eslint-config-horizon",
   "version": "1.0.0",
-  "description": "An eslint config extending the code rules for meet",
+  "description": "An eslint config extending the code rules for horizon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JesseDavda/eslint-config-meet.git"
+    "url": "git+https://github.com/JesseDavda/eslint-config-horizon.git"
   },
   "author": "Jesse Davda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JesseDavda/eslint-config-meet/issues"
+    "url": "https://github.com/JesseDavda/eslint-config-horizon/issues"
   },
-  "homepage": "https://github.com/JesseDavda/eslint-config-meet#readme"
+  "homepage": "https://github.com/JesseDavda/eslint-config-horizon#readme"
 }
