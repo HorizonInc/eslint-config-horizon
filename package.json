@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-meet",
+  "name": "eslint-config-horizon",
   "version": "1.0.0",
   "description": "An eslint config extending the code rules for meet",
   "main": "index.js",
