@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-horizon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An eslint config extending the code rules for horizon",
   "main": "index.js",
   "scripts": {
