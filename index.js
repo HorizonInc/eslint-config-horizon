@@ -1,3 +1,3 @@
-import configFile from "./config.json";
+const configFile = require("./config.json");
 
 module.exports = configFile;
