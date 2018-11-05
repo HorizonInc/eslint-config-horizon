@@ -37,11 +37,9 @@
         ],
       	"no-unused-vars": [
       	    "warn",
-      	    "always"
       	],
       	"no-console":[
       	    "allow",
-      	    "always"
       	],
         "settings": {
             "react": {
