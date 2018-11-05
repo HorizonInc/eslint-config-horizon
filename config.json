@@ -35,12 +35,8 @@
             "error",
             "always"
         ],
-      	"no-unused-vars": [
-      	    "warn",
-      	],
-      	"no-console":[
-      	    "allow",
-      	],
+      	"no-unused-vars": "warn",
+      	"no-console": "allow",
         "settings": {
             "react": {
                 "version": "16.5.2"
