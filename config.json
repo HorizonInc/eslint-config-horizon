@@ -6,7 +6,8 @@
     "extends": [
         "eslint:recommended",
         "plugin:react/recommended"
-    ],
+	],
+	"parser": "babel-eslint",
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
@@ -34,13 +35,18 @@
             "error",
             "always"
         ],
-	"no-unused-vars": [
-	    "warn",
-	    "always"
-	],
-	"no-console":[
-	    "allow",
-	    "always"
-	]
+      	"no-unused-vars": [
+      	    "warn",
+      	    "always"
+      	],
+      	"no-console":[
+      	    "allow",
+      	    "always"
+      	],
+        "settings": {
+            "react": {
+                "version": "16.5.2"
+            }
+        }
     }
 }
